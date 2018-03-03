@@ -1,8 +1,6 @@
 {
-  "files": [
-    "./src/js/**/*.ts"
-  ],
   "compilerOptions": {
+    "moduleResolution": "node",
     "lib": [
       "es2015",
       "es2015.iterable",
